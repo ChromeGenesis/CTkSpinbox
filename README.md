@@ -1,2 +1,2 @@
 # CTkSpinbox
-CTk compatible spinbox
+CTk compatible spinbox with validator
