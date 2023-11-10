@@ -1,0 +1,2 @@
+# CTkSpinbox
+CTk compatible spinbox
